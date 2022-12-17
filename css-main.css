@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.button {
+  margin: auto;
+  width: 200px;
+  height: 50px;
+  font-size: 1.25vw;
+}
+
+#text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.box {
+  background-color: #F00; /* Set the background color to red */
+  padding: 20px; /* Add padding to the box */
+  border: 1px solid #00F; /* Set the border color to blue */
+}
